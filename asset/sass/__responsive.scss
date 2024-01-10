@@ -1,0 +1,66 @@
+@media screen and (max-width: 1199px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+    .heroArea .headerNavArea {
+        padding-right: 100px;
+    }
+
+    .heroArea .hero_text .content h2 {
+        font-size: 34px;
+    }
+
+    .heroArea .hero_text .content {
+        min-height: 307px;
+    }
+
+    #service_area .service_details h4 {
+        font-size: 49px;
+    }
+
+    #service_area .service_details p {
+        font-size: 38px;
+    }
+
+    #featuredArea .singleItem .content h3 {
+        font-size: 40px;
+        line-height: 56px;
+    }
+
+    #featuredArea .singleItem img {
+        height: 500px;
+    }
+
+    #featuredArea .inner_content {
+        padding-top: 225px;
+    }
+
+    #results .topInfo h5 {
+        font-size: 37px;
+        width: 90%;
+        line-height: 48px;
+    }
+
+    #results .bottomArea .right p {
+        font-size: 25px;
+    }
+
+    #results .bottomArea .right h6 {
+        font-size: 14px;
+    }
+
+    #results .bottomArea .right {
+        padding: 30px 30px;
+    }
+
+    #aboutUs .top_info h5 {
+        font-size: 36px;
+    }
+
+    #aboutUs .about_wrapper .right .aboutInfo {
+        padding-left: 0px;
+    }
+
+    #conatctUs .right_form .mainForm {
+        width: 100%;
+    }
+}
