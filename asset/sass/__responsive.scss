@@ -1,5 +1,3 @@
-@media screen and (max-width: 1199px) {}
-
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .heroArea .headerNavArea {
         padding-right: 100px;
@@ -63,4 +61,755 @@
     #conatctUs .right_form .mainForm {
         width: 100%;
     }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .heroArea .headerNavArea {
+        padding-right: 120px;
+    }
+
+    .heroArea .headerNavArea nav ul li {
+        margin-left: 22px;
+    }
+
+    .heroArea .headerNavArea nav ul li a {
+        font-size: 16px;
+    }
+
+    .heroArea .hero_text .content h2 {
+        font-size: 25px;
+    }
+
+    .heroArea .hero_text .content {
+        min-height: 262px;
+    }
+
+    .heroArea .hero_text .content .btn_box .btn {
+        font-size: 16px;
+    }
+
+    .section_heading {
+        font-size: 24px;
+    }
+
+    #service_area .service_heading h3 {
+        margin-top: 10px;
+        font-size: 53px;
+    }
+
+    #service_area .service_details h4 {
+        font-size: 42px;
+    }
+
+    #service_area .service_details p {
+        font-size: 29px;
+        line-height: 41px;
+    }
+
+    #featuredArea .inner_content {
+        padding-top: 205px;
+    }
+
+    #featuredArea .singleItem .content h3 {
+        font-size: 33px;
+        line-height: 44px;
+    }
+
+    #featuredArea .singleItem .content p {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    #results {
+        margin-top: -126px;
+    }
+
+    #results .topInfo h5 {
+        margin-top: 18px;
+        font-size: 29px;
+        width: 82%;
+        line-height: 44px;
+    }
+
+    #results .resultBox .content h4 {
+        font-size: 27px;
+        line-height: 33px;
+    }
+
+    #results .resultBox .content h2 {
+        font-size: 72px;
+    }
+
+    #results .bottomArea .right {
+        padding: 20px 20px;
+    }
+
+    #results .bottomArea .right p {
+        font-size: 21px;
+    }
+
+    #results .bottomArea .right h6 {
+        font-size: 12px;
+    }
+
+    #results .bottomArea .left h4 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+
+    #aboutUs .top_info h5 {
+        font-size: 32px;
+        margin-top: 14px;
+        line-height: 48px;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo {
+        width: 100%;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo h3 {
+        font-size: 28px;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    #aboutUs .about_wrapper .right .aboutInfo {
+        padding-left: 0px;
+    }
+
+    #conatctUs .right_form .mainForm {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .heroArea .headerNavArea {
+        padding-right: 120px;
+    }
+
+    .heroArea .headerNavArea nav ul li {
+        margin-left: 22px;
+    }
+
+    .heroArea .headerNavArea nav ul li a {
+        font-size: 16px;
+    }
+
+    .heroArea .hero_text .content h2 {
+        font-size: 25px;
+    }
+
+    .heroArea .hero_text .content {
+        min-height: 262px;
+    }
+
+    .heroArea .hero_text .content .btn_box .btn {
+        font-size: 16px;
+    }
+
+    .section_heading {
+        font-size: 20px;
+    }
+
+    #service_area .service_heading h3 {
+        margin-top: 10px;
+        font-size: 39px;
+    }
+
+    #service_area .service_details h4 {
+        font-size: 32px;
+    }
+
+    #service_area .service_details p {
+        font-size: 21px;
+        line-height: 33px;
+    }
+
+    #featuredArea .inner_content {
+        padding-top: 157px;
+    }
+
+    #featuredArea .singleItem .content h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    #featuredArea .singleItem .content p {
+        margin-top: 3px;
+        font-size: 15px;
+    }
+
+    .service_logo_area .logo_item {
+        margin-bottom: 20px;
+    }
+
+    #featuredArea .singleItem {
+        margin-bottom: 20px;
+
+        img {
+            height: 300px;
+        }
+    }
+
+    #results {
+        margin-top: -78px;
+    }
+
+    #results .topInfo h5 {
+        margin-top: 14px;
+        font-size: 22px;
+        width: 100%;
+        line-height: 36px;
+    }
+
+    #results .resultBox .content h4 {
+        font-size: 26px;
+        line-height: 31px;
+    }
+
+    #results .resultBox .content h2 {
+        font-size: 64px;
+    }
+
+    #results .resultBox .content h2 span {
+        font-size: 35px;
+    }
+
+    #results .bottomArea {
+        margin-top: 40px;
+    }
+
+    #results .bottomArea .left {
+        margin-bottom: 20px;
+    }
+
+    #results .bottomArea .left h4 {
+        font-size: 23px;
+        line-height: 37px;
+    }
+
+    #results .bottomArea .right p {
+        font-size: 23px;
+    }
+
+    #results .bottomArea .right h6 {
+        font-size: 16px;
+    }
+
+    #aboutUs .top_info h5 {
+        font-size: 26px;
+        margin-top: 8px;
+        line-height: 41px;
+    }
+
+    #aboutUs .about_wrapper {
+        .singleItem {
+            .about_image {
+                margin-bottom: 20px;
+                text-align: center !important;
+            }
+        }
+
+        .flex_reverse {
+            .row {
+                flex-direction: column-reverse;
+            }
+        }
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo {
+        width: 100%;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo p {
+        margin-bottom: 17px;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .right .aboutInfo {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #conatctUs .right_form .mainForm {
+        width: 100%;
+    }
+
+    #aboutUs {
+        padding-bottom: 0px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .heroArea .headerNavArea {
+        padding-right: 51px;
+    }
+
+    .heroArea .headerNavArea nav ul li {
+        margin-left: 22px;
+    }
+
+    .heroArea .headerNavArea nav ul li a {
+        font-size: 16px;
+    }
+
+    .heroArea .hero_text .content h2 {
+        font-size: 25px;
+    }
+
+    .heroArea .hero_text .content {
+        min-height: 262px;
+    }
+
+    .heroArea .hero_text .content .btn_box .btn {
+        font-size: 16px;
+    }
+
+    .section_heading {
+        font-size: 20px;
+    }
+
+    #service_area .service_details {
+        margin-top: 10px;
+    }
+
+    #service_area .service_heading h3 {
+        margin-top: 10px;
+        font-size: 39px;
+    }
+
+    #service_area .service_details h4 {
+        font-size: 32px;
+    }
+
+    #service_area .service_details p {
+        font-size: 21px;
+        line-height: 33px;
+
+        br {
+            display: none;
+        }
+    }
+
+    #featuredArea .inner_content {
+        padding-top: 157px;
+        position: relative;
+    }
+
+    #featuredArea .singleItem .content h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    #featuredArea .singleItem .content p {
+        margin-top: 3px;
+        font-size: 15px;
+    }
+
+    .service_logo_area .logo_item {
+        margin-bottom: 66px;
+    }
+
+    #featuredArea .singleItem {
+        margin-bottom: 20px;
+        text-align: center !important;
+
+        img {
+            height: 200px;
+            margin: 0 auto;
+            display: table;
+            margin-bottom: 20px;
+        }
+    }
+
+    #results {
+        margin-top: 152px;
+    }
+
+    #results .topInfo h5 {
+        margin-top: 14px;
+        font-size: 22px;
+        width: 100%;
+        line-height: 36px;
+    }
+
+    #results .resultBox .content {
+        margin-bottom: 20px;
+    }
+
+    #results .resultBox .content h4 {
+        font-size: 26px;
+        line-height: 31px;
+    }
+
+    #results .resultBox .content h2 {
+        font-size: 64px;
+    }
+
+    #results .resultBox .content h2 span {
+        font-size: 35px;
+    }
+
+    #results .bottomArea {
+        margin-top: 40px;
+    }
+
+    #results .bottomArea .left {
+        margin-bottom: 20px;
+    }
+
+    #results .bottomArea .left h4 {
+        font-size: 23px;
+        line-height: 37px;
+    }
+
+    #results .bottomArea .right p {
+        font-size: 23px;
+    }
+
+    #results .bottomArea .right h6 {
+        font-size: 16px;
+    }
+
+    #aboutUs .top_info h5 {
+        font-size: 26px;
+        margin-top: 8px;
+        line-height: 41px;
+    }
+
+    #aboutUs .about_wrapper {
+        .singleItem {
+            .about_image {
+                margin-bottom: 20px;
+                text-align: center !important;
+            }
+        }
+
+        .flex_reverse {
+            .row {
+                flex-direction: column-reverse;
+            }
+        }
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo {
+        width: 100%;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo p {
+        margin-bottom: 17px;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .right .aboutInfo {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #conatctUs .right_form .mainForm {
+        width: 100%;
+    }
+
+    #aboutUs {
+        padding-bottom: 0px;
+    }
+
+    #featuredArea {
+        margin-top: -108px;
+        position: relative;
+
+        .inner_content {
+            padding-top: 200px;
+        }
+
+        .shspe_1 {
+            position: absolute;
+            height: 119%;
+            width: 100%;
+        }
+    }
+
+    #service_area {
+        padding-bottom: 0px;
+    }
+
+    .mobile_reverse {
+        .row {
+            flex-direction: column-reverse;
+        }
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .heroArea .headerNavArea {
+        padding-right: 0px;
+        margin-bottom: 30px;
+    }
+
+    .heroArea .headerNavArea nav ul li {
+        margin-left: 15px;
+    }
+
+    .heroArea .headerNavArea nav ul li a {
+        font-size: 16px;
+    }
+
+    .heroArea .hero_text .content .btn_box {
+        flex-direction: column;
+        row-gap: 10px;
+    }
+
+    .heroArea .hero_text .content h2 {
+        font-size: 20px;
+
+        br {
+            display: none;
+        }
+    }
+
+    .heroArea .hero_text .content {
+        min-height: 262px;
+    }
+
+    .heroArea .hero_text .content .btn_box .btn {
+        font-size: 16px;
+    }
+
+    .section_heading {
+        font-size: 20px;
+    }
+
+    #service_area .service_details {
+        margin-top: 10px;
+    }
+
+    #service_area .service_heading h3 {
+        margin-top: 10px;
+        font-size: 39px;
+    }
+
+    #service_area .service_details h4 {
+        font-size: 32px;
+    }
+
+    #service_area .service_details p {
+        font-size: 21px;
+        line-height: 33px;
+
+        br {
+            display: none;
+        }
+    }
+
+    #featuredArea .inner_content {
+        padding-top: 157px;
+        position: relative;
+    }
+
+    #featuredArea .singleItem .content h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    #featuredArea .singleItem .content p {
+        margin-top: 3px;
+        font-size: 15px;
+    }
+
+    .service_logo_area .logo_item {
+        margin-bottom: 26px;
+    }
+
+    #featuredArea .singleItem {
+        margin-bottom: 20px;
+        text-align: center !important;
+
+        img {
+            height: 200px;
+            margin: 0 auto;
+            display: table;
+            margin-bottom: 20px;
+        }
+    }
+
+    #results {
+        margin-top: 152px;
+    }
+
+    #results .topInfo h5 {
+        margin-top: 14px;
+        font-size: 18px;
+        width: 100%;
+        line-height: 30px;
+    }
+
+    #results .resultBox .content {
+        margin-bottom: 20px;
+    }
+
+    #results .resultBox .content h4 {
+        br {
+            display: none;
+        }
+
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    #results .resultBox .content h2 {
+        font-size: 64px;
+    }
+
+    #results .resultBox .content h2 span {
+        font-size: 35px;
+    }
+
+    #results .bottomArea {
+        margin-top: 40px;
+    }
+
+    #results .bottomArea .left {
+        margin-bottom: 20px;
+    }
+
+    #results .bottomArea .left h4 {
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    #results .bottomArea .right p {
+        font-size: 19px;
+    }
+
+    #results .bottomArea .right h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    #aboutUs .top_info h5 {
+        font-size: 20px;
+        margin-top: 8px;
+        line-height: 30px;
+
+        br {
+            display: none;
+        }
+    }
+
+    #aboutUs .about_wrapper {
+        .singleItem {
+            .about_image {
+                margin-bottom: 20px;
+                text-align: center !important;
+            }
+        }
+
+        .flex_reverse {
+            .row {
+                flex-direction: column-reverse;
+            }
+        }
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo {
+        width: 100%;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .singleItem .aboutInfo p {
+        margin-bottom: 17px;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    #aboutUs .about_wrapper .right .aboutInfo {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #conatctUs .right_form .mainForm {
+        width: 100%;
+    }
+
+    #aboutUs {
+        padding-bottom: 0px;
+    }
+
+    #featuredArea {
+        margin-top: -108px;
+        position: relative;
+
+        .inner_content {
+            padding-top: 200px;
+        }
+
+        .shspe_1 {
+            position: absolute;
+            height: 119%;
+            width: 100%;
+        }
+    }
+
+    #service_area {
+        padding-bottom: 0px;
+    }
+
+    .mobile_reverse {
+        .row {
+            flex-direction: column-reverse;
+        }
+    }
+
+    .heroArea .topRightShape {
+        position: absolute;
+        right: -8px;
+        top: 10px;
+        height: 20px;
+    }
+
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        --bs-gutter-x: 1rem;
+    }
+
+    #results .bottomArea .right {
+        background-color: #ffc700;
+        padding: 20px 25px;
+        border-radius: 5px;
+    }
+
+
+
+
+
+
+
 }
